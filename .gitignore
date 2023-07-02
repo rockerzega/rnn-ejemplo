@@ -3,6 +3,8 @@
 rnn-keras/
 .rnn-keras/
 rnn-keras/
+.spyproject/
+spyproject/
 __pycache__/
 *.pyc
 *.pyo
