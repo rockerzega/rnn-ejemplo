@@ -1,0 +1,9 @@
+# Archivos y directorios específicos de Python y virtualenv
+.rnn-keras/
+rnn-keras/
+.rnn-keras/
+rnn-keras/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
